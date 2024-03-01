@@ -1,2 +1,5 @@
-# ai-as-qa-engineer-assistant
-This repository will house the results of research into the possibilities of using LLMs as a QA Engineer assistant.
+This repository contains the results of research into the possibilities of using LLMs as a QA Engineer assistant.
+The NFT Marketplace project was used for research:
+- [NFT Marketplace - Modern UI/UX React Native App](https://github.com/StasKovalchuk/react-native-nft-marketplace).
+- [NFT Marketplace - Showcase](https://github.com/StasKovalchuk/nft-marketplace-showcase).
+[Live](https://staskovalchuk.github.io/nft-marketplace-showcase/)
