@@ -6,3 +6,5 @@ The NFT Marketplace project was used for research:
 [landing page](https://staskovalchuk.github.io/nft-marketplace-showcase/)
 
 [Building a test plan using ChatGPT](https://www.linkedin.com/pulse/building-test-plan-using-chatgpt-stanislav-kovalchuk-0uobf/)
+
+[LLM-Based QA Assistant: Test Artifacts Generation](https://dou.ua/forums/topic/54831/)
